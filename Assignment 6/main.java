@@ -28,3 +28,5 @@ public class Main {
 
     }
 }
+
+//Overall, everything in this assignment was fairly in line with what we learned in class on Monday. Classes feel fairly intuitive to me, and the 'real' learning curve was getting the random generator to work!
